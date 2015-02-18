@@ -20,28 +20,17 @@ namespace kpz1
             this.Text="Реєстрація(кількість спроб "+tries+")";
         }
         bool verify(string text)
-        {
-            char[] arr;
-            arr = text.ToCharArray(0, text.Length);
-            for (int i = 0; i < text.Length; i++)
-            {
-                if (i % 2 == 1)
-                {
-                    char temp = arr[i];
-                    try
-                    {
-                        Convert.ToByte(temp);
-                        return true;
-                    }
-                    catch
-                    {
-                        Convert.ToByte(temp);
-                        return false;
-                    }
-                }
-            }
-            return true;
-        }
+		{
+			char[] arr;
+			arr = text.ToCharArray (0, text.Length);
+			for (int i = 0; i < text.Length; i =+ 1){
+				if (i % 2 == 1){
+					if (Char.IsNumber(arr [i]))
+						;
+				else return false;}
+			}
+			return true;
+		}
         private void login_Click(object sender, EventArgs e)
         {
             if (familia.Text != " " && name.Text != " " && textBox1.Text != " " && textBox2.Text != " " && textBox3.Text != " " && textBox4.Text != " " && textBox5.Text != " ")

@@ -1,0 +1,10 @@
+/home/Tihon/Projects/kpz/kpz1/1/kpz1/kpz1/obj/x86/Debug/.NETFramework,Version=v4.0,Profile=Client.AssemblyAttribute.cs
+/home/Tihon/Projects/kpz/kpz1/1/kpz1/kpz1/obj/x86/Debug/kpz1.Frmreg.resources
+/home/Tihon/Projects/kpz/kpz1/1/kpz1/kpz1/obj/x86/Debug/kpz1.Properties.Resources.resources
+/home/Tihon/Projects/kpz/kpz1/1/kpz1/kpz1/obj/x86/Debug/kpz1.splash.resources
+/home/Tihon/Projects/kpz/kpz1/1/kpz1/kpz1/obj/x86/Debug/kpz1.user.resources
+/home/Tihon/Projects/kpz/kpz1/1/kpz1/kpz1/bin/Debug/kpz1.exe.mdb
+/home/Tihon/Projects/kpz/kpz1/1/kpz1/kpz1/bin/Debug/kpz1.exe
+/home/Tihon/Projects/kpz/kpz1/1/kpz1/kpz1/obj/x86/Debug/kpz1.exe
+/home/Tihon/Projects/kpz/kpz1/1/kpz1/kpz1/obj/x86/Debug/kpz1.exe.mdb
+/home/Tihon/Projects/kpz/kpz1/1/kpz1/kpz1/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
